@@ -137,7 +137,6 @@ Analyzed churn behavior across:
 Customers were classified into:
 
 - High Exposure
-- Moderate Exposure
 - Low Exposure
 
 based on behavioral and financial risk indicators.
