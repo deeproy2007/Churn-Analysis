@@ -160,11 +160,7 @@ Calculated:
 
 Displays:
 
-- total customers
-- churn rate
-- asset loss
-- high-risk customer percentage
-- exposure distribution
+
 
 ---
 
@@ -172,9 +168,7 @@ Displays:
 
 Analyzes:
 
-- geography-wise churn
-- activity-based churn risk
-- product-level churn exposure
+
 
 ---
 
@@ -182,9 +176,7 @@ Analyzes:
 
 Highlights:
 
-- highest-risk customer groups
-- asset concentration
-- retention priority segments
+
 
 ---
 
@@ -192,9 +184,7 @@ Highlights:
 
 Simulates:
 
-- potential savings
-- reduced asset loss
-- retention impact scenarios
+
 
 ---
 
