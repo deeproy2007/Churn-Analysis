@@ -190,11 +190,7 @@ Simulates:
 
 # Key Insights
 
-- Inactive customers are the strongest churn driver
-- Customers with only one product show higher churn probability
-- Germany has the highest churn concentration
-- High-risk customers hold a major share of total assets
-- Small retention improvements can recover millions in assets
+
 
 ---
 
