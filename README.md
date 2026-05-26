@@ -183,7 +183,7 @@ Highlights:
 ## 4. Churn Reduction Simulator
 
 Simulates:
-
+![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Churn%20Reduction%20Impact%20Simulator.jpeg?raw=true)
 
 
 ---
