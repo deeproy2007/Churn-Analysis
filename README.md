@@ -168,7 +168,7 @@ Displays:
 
 Analyzes:
 
-
+![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Root%20Cause%20Analysis.jpeg?raw=true)
 
 ---
 
