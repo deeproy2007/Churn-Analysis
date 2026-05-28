@@ -167,10 +167,10 @@ This executive overview page provides a high-level view of customer churn exposu
 
 The dashboard tracks:
 
-total customer base
-overall churn rate
-estimated asset loss
-percentage of high-risk customers
+- total customer base
+- overall churn rate
+- estimated asset loss
+- percentage of high-risk customers
 
 I also developed a customer exposure segmentation model to identify high-risk behavioral groups and quantify churn concentration.
 One of the key findings showed that inactive customers have 1.32x higher churn risk, making re-engagement campaigns a critical retention strategy.
