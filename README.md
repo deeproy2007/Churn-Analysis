@@ -173,8 +173,9 @@ estimated asset loss
 percentage of high-risk customers
 
 I also developed a customer exposure segmentation model to identify high-risk behavioral groups and quantify churn concentration.
-
 One of the key findings showed that inactive customers have 1.32x higher churn risk, making re-engagement campaigns a critical retention strategy.
+
+
 ---
 
 ## 2. Root Cause Analysis
