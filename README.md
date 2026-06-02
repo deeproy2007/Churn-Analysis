@@ -184,8 +184,11 @@ Analyzes: Why did they churn, who is most at risk, and where should we act first
 
 ![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Root%20Cause%20Analysis.jpeg?raw=true)
 
+
 This Root Cause Analysis dashboard identifies the key factors driving customer churn. The analysis reveals that customer inactivity is the strongest churn
 indicator, while Germany represents the highest-risk geography. Additional analysis shows that churn varies significantly across customer exposure segments and product ownership groups. These insights help businesses prioritize retention efforts, reduce customer attrition, and protect high-value assets through targeted interventions.
+
+
 ---
 
 ## 3. Churn Risk Segments & Priorities
