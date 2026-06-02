@@ -193,7 +193,7 @@ indicator, while Germany represents the highest-risk geography. Additional analy
 
 ## 3. Churn Risk Segments & Priorities
 
-Highlights:
+Highlights: Who is likely to leave AND will cost the company the most money if they do?
 
 ![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Churn%20Risk.jpeg?raw=true)
 
