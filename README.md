@@ -198,6 +198,9 @@ Highlights:
 ![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Churn%20Risk.jpeg?raw=true)
 
 
+This dashboard prioritizes customer segments based on both churn risk and financial exposure. By combining churn rates, customer assets, geographic concentration, and exposure scoring, the analysis identifies which customer groups should receive immediate retention attention. The results show that high-exposure customers in Germany and France represent the greatest business risk due to their combination of high churn probability and large asset concentration. This allows organizations to allocate retention resources more effectively and maximize the financial impact of churn reduction initiatives.
+
+
 ---
 
 ## 4. Churn Reduction Simulator
