@@ -211,6 +211,9 @@ Simulates:
 ![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Churn%20Reduction%20Impact%20Simulator.jpeg?raw=true)
 
 
+This page simulates the financial impact of customer retention initiatives. By applying different churn reduction scenarios, stakeholders can estimate potential savings, evaluate ROI, and prioritize retention investments. The analysis shows that focusing on high-value inactive customers in high-risk regions such as Germany and France could reduce churn by 10–15%, potentially saving millions in assets while improving overall customer retention performance.
+
+
 ---
 
 # Key Insights
