@@ -205,7 +205,7 @@ This dashboard prioritizes customer segments based on both churn risk and financ
 
 ## 4. Churn Reduction Simulator
 
-Simulates:
+Simulates: If we act on these customers, here's how much money we can save.
 
 
 ![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Churn%20Reduction%20Impact%20Simulator.jpeg?raw=true)
