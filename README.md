@@ -158,7 +158,7 @@ Calculated:
 
 ## 1. Executive Overview
 
-Displays:
+Displays: The overview of Banking Churn 
 
 ![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Exclusive%20Overview.jpeg?raw=true)
 
