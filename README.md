@@ -180,7 +180,7 @@ One of the key findings showed that inactive customers have 1.32x higher churn r
 
 ## 2. Root Cause Analysis
 
-Analyzes: Why did they churn, who is most at risk, and where should we act first?
+Analyzes: Who is most at risk, and where should we act first?
 
 ![image alt](https://github.com/deeproy2007/Churn-Analysis/blob/main/Dashboards%20Pictures/Root%20Cause%20Analysis.jpeg?raw=true)
 
