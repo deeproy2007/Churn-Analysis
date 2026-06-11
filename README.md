@@ -243,3 +243,6 @@ This project demonstrates:
 - dashboard storytelling using Power BI
 
 The analysis goes beyond basic churn reporting and focuses on actionable business intelligence for retention strategy and risk reduction.
+
+## Author
+ **Deep Roy**
