@@ -236,11 +236,11 @@ This page simulates the financial impact of customer retention initiatives. By a
 
 This project demonstrates:
 
-- advanced SQL analytics
-- business-focused problem solving
-- customer risk segmentation
-- financial impact analysis
-- dashboard storytelling using Power BI
+- Advanced SQL analytics
+- Business-focused problem solving
+- Customer risk segmentation
+- Financial impact analysis
+- Dashboard storytelling using Power BI
 
 The analysis goes beyond basic churn reporting and focuses on actionable business intelligence for retention strategy and risk reduction.
 
