@@ -21,7 +21,7 @@ SQL-based churn analysis project focused on identifying high-risk customers, mea
 
 # Executive Summary
 
-This project analyzes customer churn behavior and its financial impact on a banking business.
+This Project Analyzes customer churn behavior and its financial impact on a banking business.
 
 Instead of only tracking churn percentage, the analysis focuses on:
 
