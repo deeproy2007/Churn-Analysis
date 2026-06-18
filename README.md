@@ -56,7 +56,7 @@ The goal of this project was to identify:
 
 # Project Objectives
 
-- Perform customer churn analysis using SQL
+- Perform Customer churn analysis using SQL
 - Build customer risk segments
 - Identify major churn drivers
 - Measure financial impact of churn
