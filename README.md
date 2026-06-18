@@ -98,7 +98,7 @@ The dataset contains customer banking information including:
 
 ## Data Validation
 
-Performed checks for:
+Performed Checks For:
 
 - duplicate customer IDs
 - invalid ages
