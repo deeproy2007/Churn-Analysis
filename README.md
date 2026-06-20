@@ -48,9 +48,9 @@ Customer churn directly affects revenue, customer lifetime value, and asset rete
 
 The goal of this project was to identify:
 
-- which customers are most likely to churn
-- which segments create the highest financial risk
-- where the business should focus retention efforts
+- Which customers are most likely to churn
+- Which segments create the highest financial risk
+- Where the business should focus retention efforts
 
 ---
 
