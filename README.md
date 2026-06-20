@@ -147,10 +147,10 @@ based on behavioral and financial risk indicators.
 
 Calculated:
 
-- total customer assets
-- churn-related asset loss
-- high-risk asset concentration
-- potential retention savings
+- Total customer assets
+- Churn-related asset loss
+- High-risk asset concentration
+- Potential retention savings
 
 ---
 
