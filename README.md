@@ -25,10 +25,10 @@ This Project Analyzes customer churn behavior and its financial impact on a bank
 
 Instead of only tracking churn percentage, the analysis focuses on:
 
-- identifying high-risk customer segments
-- detecting the main churn drivers
-- measuring asset loss caused by churn
-- estimating potential savings through retention strategies
+- Identifying high-risk customer segments
+- Detecting the main churn drivers
+- Measuring asset loss caused by churn
+- Estimating potential savings through retention strategies
 
 The project combines SQL-based analytics with Power BI dashboards to create a business-focused churn intelligence system.
 
