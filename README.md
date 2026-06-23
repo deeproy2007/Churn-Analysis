@@ -245,5 +245,5 @@ This project demonstrates:
 The analysis goes beyond basic churn reporting and focuses on actionable business intelligence for retention strategy and risk reduction.
 
 ## Author
- **Deep Roy**
- **Data Analyst**
+**Deep Roy**
+**Data Analyst**
