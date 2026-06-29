@@ -21,7 +21,7 @@ I analysed the Banking Churn problem where the bank was lossing around 185M in c
 
 # Executive Summary
 
-This Project Analyzes customer churn behavior and its financial impact on a banking business.
+This project analyzes customer churn behavior and its financial impact on a banking business.
 
 Instead of only tracking churn percentage, the analysis focuses on:
 
