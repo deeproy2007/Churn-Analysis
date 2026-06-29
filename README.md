@@ -25,7 +25,7 @@ This project analyzes customer churn behavior and its financial impact on a bank
 
 Instead of only tracking churn percentage, the analysis focuses on:
 
-- Identifying high-risk customer segments
+- Identifying High-Risk customer segments
 - Detecting the main churn drivers
 - Measuring asset loss caused by churn
 - Estimating potential savings through retention strategies
