@@ -246,4 +246,3 @@ The analysis goes beyond basic churn reporting and focuses on actionable busines
 
 ## Author
 **Deep Roy**
-**Data Analyst**
