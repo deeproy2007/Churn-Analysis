@@ -38,7 +38,7 @@ The project combines SQL-based analytics with Power BI dashboards to create a bu
 - High-risk customers: **31%**
 - Inactive customers show **1.32× higher churn risk**
 - Germany and France have the highest churn exposure
-- Estimated asset loss due to churn: **$186M**
+- Estimated asset loss due to Churn: **$186M**
 
 ---
 
