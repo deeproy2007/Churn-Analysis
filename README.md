@@ -46,7 +46,7 @@ The project combines SQL-based analytics with Power BI dashboards to create a bu
 
 Customer churn directly affects revenue, customer lifetime value, and asset retention.
 
-The goal of this project was to identify:
+The Goal Of This Project Was To Identify:
 
 - Which customers are most likely to churn
 - Which segments create the highest financial risk
