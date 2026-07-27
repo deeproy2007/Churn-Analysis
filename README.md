@@ -1,6 +1,6 @@
 # Customer Churn Analytics & Financial Risk Intelligence
 
-I analysed the Banking Churn problem where the bank was lossing around 185M in customer assets. TO solev
+I analysed the Banking Churn problem where the bank was lossing around 185M in customer assets. TO reduce the churn I make a project. 
 
 ---
 
