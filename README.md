@@ -1,6 +1,6 @@
 # Customer Churn Analytics & Financial Risk Intelligence
 
-I analysed the Banking Churn problem where the bank was lossing around 185M in customer assets. TO reduce the churn I make a project. Where I analysed raw data into High risk customer who have high possibility to churn next.
+I analysed the Banking Churn problem where the bank was lossing around 185M in customer assets. TO reduce the churn I make a project. Where I analysed raw data into High risk customer who have high possibility to churn next. and find the main reason to churn and also find the avg asset loss by location. And my last conclusion is if I focus on those customers who have already there so I can save more then if I focus on attract new customer. 
 
 ---
 
